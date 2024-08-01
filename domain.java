@@ -28,9 +28,9 @@ case 7: System.out.println("VII");
         break;
 case 8: System.out.println("VIII");
         break;
-case 9: System.out.println("IX");
+case 9: System.out.println("x");
         break;
-default:System.out.println("n0");
+default:System.out.println("no values");
 
 }
 
